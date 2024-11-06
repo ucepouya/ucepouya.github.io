@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucepouya.github.io/MuT/sitemap_index.txt
+Sitemap: https://ucepouya.github.io/VpB/sitemap_index.txt
+Sitemap: https://ucepouya.github.io/coh/sitemap_index.txt
+Sitemap: https://ucepouya.github.io/rgL/sitemap_index.txt
